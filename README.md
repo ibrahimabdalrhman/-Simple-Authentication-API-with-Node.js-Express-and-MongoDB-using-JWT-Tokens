@@ -1,4 +1,4 @@
-# -Simple-Authentication-API-with-Node.js-Express-and-MongoDB-using-JWT-Tokens
+# Simple-Authentication-using-JWT-Tokens
 This repository contains a Node.js application that uses Express and Mongoose to build a simple authentication system that allows users to sign up, login, and logout.
 
 # Getting Started
